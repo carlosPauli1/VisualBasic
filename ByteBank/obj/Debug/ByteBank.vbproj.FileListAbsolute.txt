@@ -1,0 +1,13 @@
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\obj\Debug\ByteBank.vbproj.AssemblyReference.cache
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\obj\Debug\ByteBank.vbproj.SuggestedBindingRedirects.cache
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\obj\Debug\ByteBank.FrmMain.resources
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\obj\Debug\ByteBank.Resources.resources
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\obj\Debug\ByteBank.vbproj.GenerateResource.cache
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\obj\Debug\ByteBank.vbproj.CoreCompileInputs.cache
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\bin\Debug\ByteBank.xml
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\obj\Debug\ByteBank.xml
+C:\Users\carlos.pauli\Documents\Estudos\VB\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
